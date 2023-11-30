@@ -1,8 +1,9 @@
 
 
-# Proyecto Individual 1: Machine Learning Operations (MLOps)
 
-## Alumno: Hernandez Corona Yahir
+
+## Alumno: Hernandez Corona Yahir , Adrian UAEM TEXCOCO
+
 
 ## Introduccion
 
